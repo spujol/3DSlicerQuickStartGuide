@@ -1,4 +1,4 @@
-The  <a href="https://spujol.github.io/3DSlicerQuickStartGuide/Slicer5QuickStartGuide_SoniaPujol.pdf" target="_blank"> Quick Start Guide </a>  shows how to download and install 3D Slicer on your computer.
+The  <a href="https://spujol.github.io/3DSlicerQuickStartGuide/Slicer5_QuickStartGuide_SoniaPujol.pdf" target="_blank"> Quick Start Guide </a>  shows how to download and install 3D Slicer on your computer.
 
 
 Author:
